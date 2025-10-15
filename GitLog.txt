@@ -1,0 +1,59 @@
+* commit 93d03c03a6ac76177b768763f16b2f6ba2811752
+| Author: amypounder <atp104@miami.edu>
+| Date:   Wed Oct 15 15:36:05 2025 -0400
+| 
+|     Hello Crazy World
+|   
+*   commit 279ba96dce526b962f4e5554bd2b48e60ce92f7d
+|\  Merge: ab1a007 da6435a
+| | Author: amypounder <atp104@miami.edu>
+| | Date:   Wed Oct 15 15:34:52 2025 -0400
+| | 
+| |     Merged
+| |   
+| *   commit da6435a437714470b25dc8bd0cac6ba3edbbc91f
+| |\  Merge: 0a4247f e34157b
+| | | Author: amypounder <161374401+amypounder@users.noreply.github.com>
+| | | Date:   Wed Oct 15 14:25:43 2025 -0400
+| | | 
+| | |     Merge pull request #1 from amypounder/Happy
+| | |     
+| | |     Update to Happy World
+| | |   
+| | *   commit e34157bd410c71c0fc64330abc15b5de446e1c22
+| | |\  Merge: 4979126 0a4247f
+| | |/  Author: amypounder <161374401+amypounder@users.noreply.github.com>
+| |/|   Date:   Wed Oct 15 14:25:35 2025 -0400
+| | |   
+| | |       Merge branch 'main' into Happy
+| | |   
+* | |   commit ab1a007ab9789f39de3cb627c042c51a5169afea
+|\ \ \  Merge: 0a4247f 4979126
+| |/ /  Author: amypounder <atp104@miami.edu>
+|/| /   Date:   Wed Oct 15 14:34:25 2025 -0400
+| |/    
+| |         Merge branch 'Happy' and resolve conflict
+| | 
+| * commit 497912692f9e626f0cd135e6a699826d177140ed
+| | Author: amypounder <atp104@miami.edu>
+| | Date:   Wed Oct 15 14:08:29 2025 -0400
+| | 
+| |     Update to Happy World
+| | 
+* | commit 0a4247f9cf0f3f92bbfb5155255cd2334d5b7c8e
+|/  Author: amypounder <atp104@miami.edu>
+|   Date:   Wed Oct 15 14:12:06 2025 -0400
+|   
+|       Very Crool World
+| 
+* commit 74225e7fdcf9639c06574255ea477dc3216fe6ce
+| Author: amypounder <atp104@miami.edu>
+| Date:   Wed Oct 15 14:05:37 2025 -0400
+| 
+|     Crool World
+| 
+* commit 6bd5f1fe8b9107a9eb545f1d355f447eed038c49
+  Author: amypounder <atp104@miami.edu>
+  Date:   Wed Oct 15 05:35:42 2025 -0400
+  
+      Inital Commit: Hello World
