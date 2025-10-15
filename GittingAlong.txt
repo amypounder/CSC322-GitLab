@@ -1,0 +1,31 @@
+mkdir GitLab
+echo '#include <stdio.h>\n\nint main() {\n    printf("Hello World!\n");\n    return 0;\n}' > GitLab/HelloWorld.c
+cd GitLab
+git init
+git add HelloWorld.c
+git commit -m "Initial commit: Add HelloWorld.c"
+git remote add origin https://github.com/amypounder/CSC322-GitLab
+git push -u origin main
+echo '#include <stdio.h>\n\nint main() {\n    printf("Hello Crool World!\n");\n    return 0;\n}' > HelloWorld.c
+git commit -am "Update message to Crool World!"
+git push
+git branch Happy
+git checkout Happy
+git push -u origin Happy
+echo '#include <stdio.h>\n\nint main() {\n    printf("Hello Happy World!\n");\n    return 0;\n}' > HelloWorld.c
+git commit -am "Update message to Happy World!"
+git push
+git checkout main
+echo '#include <stdio.h>\n\nint main() {\n    printf("Hello Very Crool World!\n");\n    return 0;\n}' > HelloWorld.c
+git commit -am "Update message to Very Crool World!"
+git push
+git merge Happy
+git pull
+git status
+git add HelloWorld.c
+git status
+git commit -m "Merged"
+git push
+echo '#include <stdio.h>\n\nint main() {\n    printf("Hello Crazy World!\n");\n    return 0;\n}' > HelloWorld.c
+git commit -am "Update message to Crazy World!"
+git push
